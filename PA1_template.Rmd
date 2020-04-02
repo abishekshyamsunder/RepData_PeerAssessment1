@@ -122,4 +122,4 @@ title(main = "Mean steps across each interval on Weekends")
 ```  
 
 
-Here we add 2 new columns to the dataset, which signify the day of the week and a also signify if the day is a weekend or not. We plot a time series graph to understand the difference between the trends.
+Here we add 2 new columns to the dataset, which signify the day of the week and also signify if the day is a weekend or not. We plot a time series graph to understand the difference between the trends.
